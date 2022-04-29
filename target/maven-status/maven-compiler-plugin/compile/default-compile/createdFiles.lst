@@ -1,0 +1,4 @@
+pages\CheckoutPage.class
+pages\PageObjectManager.class
+pages\LandPage.class
+pages\OffersPage.class

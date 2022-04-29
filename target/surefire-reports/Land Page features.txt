@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Land Page features
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 85.846 s <<< FAILURE! - in Land Page features
+Land Page features.Verify Itemname on Land Page and Product name are same #1  Time elapsed: 12.905 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[No data]> but was:<[Brocolli]>
+
+Land Page features.Verify Itemname on Land Page and Product name are same #2  Time elapsed: 12.835 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[No data]> but was:<[Cauliflower]>
+
+Land Page features.Verify Itemname on Land Page and Product name are same #3  Time elapsed: 10.168 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[No data]> but was:<[Cucumber]>
+
+Land Page features.Verify Itemname on Land Page and Product name are same #4  Time elapsed: 11.046 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[No data]> but was:<[Beetroot]>
+
