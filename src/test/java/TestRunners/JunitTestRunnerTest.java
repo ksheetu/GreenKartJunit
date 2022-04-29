@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 		features="src/test/java/features",
 		glue="stepdefinitions",
 		monochrome=true,
-		tags="@CheckoutPage or @LandPage",
+		tags="@CheckoutPage",
 		dryRun=false,
 		plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 				"rerun:target/failed_scenarios.txt"
